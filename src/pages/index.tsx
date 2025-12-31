@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>
-          Happy New Year 2079 - Canvas Animation using NextJs & TypeScript
+          Happy New Year 2026 - For Blockchain Pioneer Student Club
         </title>
         <meta
           name="description"
@@ -24,7 +24,7 @@ const Home: NextPage = () => {
               Happy <br /> New Year
             </h1>
             <h2 className="text-[80px] font-bold text-red-500 font-playball text-center">
-              2079
+              2026 Vy
             </h2>
           </div>
         </div>
